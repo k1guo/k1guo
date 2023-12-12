@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning CS
 - 👯 I’m looking to collaborate on software development
 
-  Thanks for visiting!🧚🏼‍♀️ ☃
+  Thanks for visiting!🧚🏼‍♀️ 
   
 <!--
 **k1guo/k1guo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
